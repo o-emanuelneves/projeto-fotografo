@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: rgb(149, 203, 248);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+.principal{
+    margin: 0 auto;
+    align-items: center;
+    width: 90%;
+    
+             
+}
+
+.menu{
+    background: rgb(113, 187, 248);
+    color: black;
+    padding: 1%;
+    text-align: center;     
+}
+
+.menu a{
+    color: rgb(3, 43, 77);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu a:hover{
+    color: rgb(5, 80, 145);
+
+}
+
+.conteudo{
+    padding: 20px;
+    text-align: justify;
+    background-color: rgb(190, 224, 252);
+    
+}
+.conteudo h1{
+    color: rgb(3, 43, 77);
+}
+
+.centralizar{
+    text-align: center;
+    align-items: center;
+}
+
+.fotos{
+    width: 50%;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: block
+    
+    
+}
